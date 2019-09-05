@@ -1,0 +1,6 @@
+dash==1.1.1
+plotly
+gunicorn
+dash_design_kit-1.2.0a1.tar.gz
+dash_snapshots-1.0.2.tar.gz
+
